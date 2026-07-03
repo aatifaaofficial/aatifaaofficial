@@ -2,7 +2,9 @@
 
 ###
 
-<p data-importer="text" align="center">I am a Full Stack Developer</p>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 ###
 
@@ -11,12 +13,6 @@
 ###
 
 <p data-importer="text" align="left">🔭 Working on AI, ML, IoT & Robotics.<br>🌱 Learning Python, ML & Embedded Systems.<br>👯 Open to collaboration on tech projects.<br>🤔 Seeking help with AI & IoT.<br>💬 Ask me about Python, ML, IoT & Robotics.<br>📫 Reach me via GitHub or LinkedIn.<br>😄 Pronouns: She/Her.<br>⚡ Fun fact: I love building smart solutions.</p>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
 
