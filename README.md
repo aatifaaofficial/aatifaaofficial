@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hi World, I'm Jyoti</h1>
+<h1 data-importer="text" align="center">🦋Hi World, I'm Jyoti🦋</h1>
 <!-- Animated Typing Banner -->
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Machine+Learning+Enthusiast;IoT+Developer;Robotics+Explorer;Python+Programmer;Building+Smart+Solutions+for+the+Future" /> </p>
@@ -164,3 +164,56 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FF61F6&center=true&vCenter=true&repeat=true&width=600&lines=Thanks+For+Visiting+%F0%9F%92%9C" alt="Typing SVG" />
 </p>
+```html
+<!-- ================= SNAKE ANIMATION ================= -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/snake-output/snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aatifaaofficial&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatifaaofficial&layout=compact&theme=dracula&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=aatifaaofficial&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+<!-- ================= TROPHIES ================= -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aatifaaofficial&theme=dracula&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aatifaaofficial&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+<!-- ================= THANKS ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=700&lines=Thanks+For+Visiting+My+Profile!;Happy+Coding!+🚀;See+You+Again!+💜" />
+</p>
+```
