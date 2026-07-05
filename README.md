@@ -1,213 +1,152 @@
-# 🚀 Complete Modern GitHub Profile README (2026 Style)
+<h1 data-importer="text" align="center">Hi World, I'm Jyoti</h1>
 
-````html
-<!-- ================= HEADER ================= -->
+###
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Jyoti&fontSize=70&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
-
-<h1 align="center">Hi 👋, I'm Jyoti</h1>
-
-<h3 align="center">
-AI • Machine Learning • IoT • Robotics Enthusiast
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Machine+Learning+Enthusiast;IoT+Developer;Robotics+Explorer;Python+Programmer;Building+Smart+Solutions+for+the+Future" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=aatifaaofficial&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/aatifaaofficial?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/aatifaaofficial?style=for-the-badge"/>
-</p>
-
----
-
-<!-- ================= GIF ================= -->
-
-<div align="center">
-<img height="250" src="https://i.imgflip.com/65efzo.gif"/>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
----
+###
+
+<h2 data-importer="text" align="left">About me</h2>
 
-# 👩‍💻 About Me
+###
 
-🔭 Working on AI, Machine Learning, IoT & Robotics
+<p data-importer="text" align="left">🔭 Working on AI, ML, IoT & Robotics.<br>🌱 Learning Python, ML & Embedded Systems.<br>👯 Open to collaboration on tech projects.<br>🤔 Seeking help with AI & IoT.<br>💬 Ask me about Python, ML, IoT & Robotics.<br>📫 Reach me via GitHub or LinkedIn.<br>😄 Pronouns: She/Her.<br>⚡ Fun fact: I love building smart solutions.</p>
 
-🌱 Currently Learning Python, ML, Embedded Systems & Computer Vision
+###
 
-🤖 Passionate About Smart Automation & Intelligent Systems
+<h1 data-importer="text" align="left">Skills</h1>
 
-💡 Interested in AI, Robotics, Embedded Systems & Future Technologies
+###
 
-🤝 Open For Collaboration On Innovative Projects
+<h4 data-importer="text" align="left">Programming Languages</h4>
 
-📫 Email: aatifaaofficial1@gmail.com
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+</div>
 
-⚡ Fun Fact: I Love Turning Ideas Into Smart Solutions
+###
 
----
+<h4 data-importer="text" align="left">Frontend Technologies</h4>
 
-# 🚀 Tech Stack
+###
 
-### Programming Languages
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+</div>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python" />
-</p>
+###
 
-### AI / ML / Data Science
+<h4 data-importer="text" align="left">Backend Technologies</h4>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50"/>
-</p>
+###
 
-### IoT & Robotics
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+</div>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=arduino" />
-<img src="https://skillicons.dev/icons?i=raspberrypi" />
-</p>
+###
 
-### Frontend
+<h4 data-importer="text" align="left">Database & Tools</h4>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
-</p>
+###
 
-### Backend
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=django,fastapi,aws" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50"/>
-</p>
+###
 
-### Database
+<h4 data-importer="text" align="left">Other tools & Technologies</h4>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
+###
 
-### Tools
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode" />
-</p>
+###
 
----
+<h4 data-importer="text" align="left">Connect with me:</h4>
 
-# 🎯 Current Focus
+###
 
-```text
-🤖 Robotics Development
-🧠 Machine Learning
-🌐 Internet of Things
-🐍 Python Programming
-📡 Embedded Systems
-☁️ Cloud Computing
-````
+<div data-importer="socials" align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/wechat/default.svg" width="52" height="40" alt="wechat logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
 
----
+###
 
-# 🏆 GitHub Trophies
+<br clear="both">
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aatifaaofficial&theme=dracula&row=1&column=7"/>
-</p>
+<img data-importer="snake" src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/snake-output/snake.svg" alt="Snake animation" />
 
----
+###
 
-# 📊 GitHub Statistics
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=aatifaaofficial&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-<p align="center">
+###
 
-<img src="https://github-readme-stats.vercel.app/api?username=aatifaaofficial&show_icons=true&theme=dracula&count_private=true"/>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatifaaofficial&layout=compact&theme=dracula"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=aatifaaofficial&theme=dracula"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aatifaaofficial&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/snake-output/snake.svg"/>
-</p>
-
----
-
-# 🎖️ 2026 Goals
-
-✅ Build Advanced AI Projects
-
-✅ Develop Smart IoT Systems
-
-✅ Explore Computer Vision
-
-✅ Contribute To Open Source
-
-✅ Learn Advanced Robotics
-
-✅ Create Innovative Products
-
----
-
-# 💭 Favorite Quote
-
-<p align="center">
-
-"Technology is best when it brings people together."
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/aatifaaofficial">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="mailto:aatifaaofficial1@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="https://facebook.com">
-<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="50"/>
-</a>
-
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-
-```
-```
+###
