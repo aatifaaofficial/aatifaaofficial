@@ -150,7 +150,7 @@
   <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=aatifaaofficial&theme=react-dark&hide_border=true&area=true" /> </p>
 ###
 
 <picture data-importer="pacman">
