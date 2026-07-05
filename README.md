@@ -8,23 +8,23 @@
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 data-importer="text" align="center">About me</h2>
 
 ###
 
-<p data-importer="text" align="left">🔭 Working on AI, ML, IoT & Robotics.<br>🌱 Learning Python, ML & Embedded Systems.<br>👯 Open to collaboration on tech projects.<br>🤔 Seeking help with AI & IoT.<br>💬 Ask me about Python, ML, IoT & Robotics.<br>📫 Reach me via GitHub or LinkedIn.<br>😄 Pronouns: She/Her.<br>⚡ Fun fact: I love building smart solutions.</p>
+<p data-importer="text" align="center">🔭 Working on AI, ML, IoT & Robotics.<br>🌱 Learning Python, ML & Embedded Systems.<br>👯 Open to collaboration on tech projects.<br>🤔 Seeking help with AI & IoT.<br>💬 Ask me about Python, ML, IoT & Robotics.<br>📫 Reach me via GitHub or LinkedIn.<br>😄 Pronouns: She/Her.<br>⚡ Fun fact: I love building smart solutions.</p>
 
 ###
 
-<p data-importer="text" align="left">📫 Reach me - aatifaaofficial1@gmail.com</p>
+<p data-importer="text" align="center">📫 Reach me - aatifaaofficial1@gmail.com</p>
 
 ###
 
-<h1 data-importer="text" align="left">Skills</h1>
+<h1 data-importer="text" align="center">Skills</h1>
 
 ###
 
-<h4 data-importer="text" align="left">Programming Languages</h4>
+<h4 data-importer="text" align="center">Programming Languages</h4>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Frontend Technologies</h4>
+<h4 data-importer="text" align="center">Frontend Technologies</h4>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Backend Technologies</h4>
+<h4 data-importer="text" align="center">Backend Technologies</h4>
 
 ###
 
@@ -84,7 +84,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Database & Tools</h4>
+<h4 data-importer="text" align="center">Database & Tools</h4>
 
 ###
 
@@ -98,7 +98,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Other tools & Technologies</h4>
+<h4 data-importer="text" align="center">Other tools & Technologies</h4>
 
 ###
 
@@ -114,21 +114,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">Connect with me:</h4>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
+<h4 data-importer="text" align="center">Connect with me:</h4>
 
 ###
 
@@ -145,6 +131,8 @@
 
 ###
 
+<br clear="both">
+
 <img data-importer="snake" src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/snake-output/snake.svg" alt="Snake animation" />
 
 ###
@@ -152,14 +140,17 @@
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=aatifaaofficial&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
 ###
