@@ -1,156 +1,94 @@
-<h1 data-importer="text" align="center">Hi World, I'm Jyoti</h1>
+<!-- Animated Typing Banner -->
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Machine+Learning+Enthusiast;IoT+Developer;Robotics+Explorer;Python+Programmer;Building+Smart+Solutions+for+the+Future" />
+</p>
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- Profile Views -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aatifaaofficial&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+<!-- Quote -->
+
+<div align="center">
+
+### 💭 Daily Inspiration
+
+> "The future belongs to those who learn more skills and combine them in creative ways."
+
 </div>
 
-###
+---
 
-<h2 data-importer="text" align="center">About me</h2>
+## 🚀 Current Focus
 
-###
+```text
+🤖 Robotics Development
+🧠 Machine Learning
+🌐 Internet of Things (IoT)
+🐍 Python Programming
+📡 Embedded Systems
+☁️ Cloud & Backend Technologies
+```
 
-<p data-importer="text" align="center">🔭 Working on AI, ML, IoT & Robotics.<br>🌱 Learning Python, ML & Embedded Systems.<br>👯 Open to collaboration on tech projects.<br>🤔 Seeking help with AI & IoT.<br>💬 Ask me about Python, ML, IoT & Robotics.<br>📫 Reach me via GitHub or LinkedIn.<br>😄 Pronouns: She/Her.<br>⚡ Fun fact: I love building smart solutions.</p>
+---
 
-###
+## 🎯 2026 Goals
 
-<p data-importer="text" align="center">📫 Reach me - aatifaaofficial1@gmail.com</p>
+* Build impactful AI projects
+* Develop smart IoT solutions
+* Contribute to Open Source
+* Learn Advanced Robotics
+* Explore Computer Vision
+* Publish innovative projects
 
-###
+---
 
-<h1 data-importer="text" align="center">Skills</h1>
+## 🏆 GitHub Achievements
 
-###
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aatifaaofficial&theme=dracula&row=1&column=7" />
+</p>
 
-<h4 data-importer="text" align="center">Programming Languages</h4>
+---
 
-###
+## 📈 Contribution Activity
 
-<div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aatifaaofficial&theme=react-dark&hide_border=true&area=true" />
+</p>
 
-###
+---
 
-<h4 data-importer="text" align="center">Frontend Technologies</h4>
+## ⚡ Fun Facts
 
-###
+* 💡 I enjoy transforming ideas into real-world solutions.
+* 🤖 Passionate about Robotics & Automation.
+* 🌱 Learning something new every day.
+* 🚀 Love building futuristic projects.
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-</div>
+---
 
-###
+## 🤝 Let's Connect
 
-<h4 data-importer="text" align="center">Backend Technologies</h4>
+<p align="center">
+  <a href="https://github.com/aatifaaofficial">
+    <img src="https://skillicons.dev/icons?i=github" height="50">
+  </a>
 
-###
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50">
+  </a>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-</div>
+  <a href="mailto:aatifaaofficial1@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50">
+  </a>
+</p>
 
-###
+---
 
-<h4 data-importer="text" align="center">Database & Tools</h4>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h4 data-importer="text" align="center">Other tools & Technologies</h4>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h4 data-importer="text" align="center">Connect with me:</h4>
-
-###
-
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/wechat/default.svg" width="52" height="40" alt="wechat logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=aatifaaofficial&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
-
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer"/>
+</p>
