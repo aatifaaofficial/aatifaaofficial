@@ -150,3 +150,12 @@
 </picture>
 
 ###
+🤝 Let's Connect
+
+<p align="center"> <a href="https://github.com/aatifaaofficial"> <img src="https://skillicons.dev/icons?i=github" height="50"> </a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://skillicons.dev/icons?i=linkedin" height="50"> </a>
+
+<a href="mailto:aatifaaofficial1@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="50"> </a> </p>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer"/> </p>
