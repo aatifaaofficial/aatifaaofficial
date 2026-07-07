@@ -162,11 +162,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
-###
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer"/> </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FF61F6&center=true&vCenter=true&repeat=true&width=600&lines=Thanks+For+Visiting+%F0%9F%92%9C" alt="Typing SVG" />
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Thanks%20For%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=70&color=0:6A5ACD,25:8A2BE2,50:00BFFF,75:00C9FF,100:6A5ACD" width="100%" />
@@ -180,6 +175,3 @@
 <img src="https://img.shields.io/badge/Made%20with-❤-ff69b4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/AI%20Developer-Future%20Engineer-00C9FF?style=for-the-badge" />
-
-
-
