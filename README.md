@@ -166,10 +166,4 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer"/> </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FF61F6&center=true&vCenter=true&repeat=true&width=600&lines=Thanks+For+Visiting+%F0%9F%92%9C" alt="Typing SVG" />
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=true&width=650&lines=💜+Thanks+For+Visiting+💜"/>
-
-</div>
