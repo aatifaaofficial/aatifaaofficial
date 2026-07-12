@@ -172,15 +172,26 @@
 <img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/AI%20Developer-Future%20Engineer-00C9FF?style=for-the-badge" />
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet">
-</p>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Initializing J.A.R.V.I.S...
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,flutter,firebase,tensorflow,pytorch,arduino,raspberrypi,linux,git,github,vscode,opencv"/>
-</p>
-<h3 align="center">
-
-> "Turning ideas into intelligent solutions through AI, IoT, and Robotics."
-
-</h3>
+```text
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║            🤖 J.A.R.V.I.S DEVELOPER CONSOLE 🤖             ║
+║                                                            ║
+║   USER      : Aatifaa Jyoti                               ║
+║   ROLE      : AI • IoT • Robotics Developer               ║
+║   STATUS    : ONLINE 🟢                                   ║
+║   LOCATION  : Bangladesh 🇧🇩                              ║
+║                                                            ║
+║   AI Engine          ███████████████ 100%                 ║
+║   Python             ███████████████ 100%                 ║
+║   Machine Learning   ██████████████░ 92%                  ║
+║   IoT                ██████████████░ 90%                  ║
+║   Embedded Systems   █████████████░░ 85%                  ║
+║   Flutter            ████████████░░░ 80%                  ║
+║                                                            ║
+║   SYSTEM STATUS : ALL SYSTEMS OPERATIONAL                 ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
