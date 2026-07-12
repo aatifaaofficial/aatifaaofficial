@@ -171,3 +171,7 @@
 <img src="https://img.shields.io/badge/Made%20with-❤-ff69b4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/AI%20Developer-Future%20Engineer-00C9FF?style=for-the-badge" />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=💜%20Thanks%20For%20Visiting%20My%20Profile!%20💜&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=70&color=0:6A5ACD,25:8A2BE2,50:00BFFF,75:00C9FF,100:6A5ACD" width="100%" />
