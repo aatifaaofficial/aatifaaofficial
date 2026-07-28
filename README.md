@@ -146,32 +146,17 @@
 <div align="center">
 <div align="center">
 
-<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aatifaaofficial&theme=tokyonight"/>
-<div align="center">
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aatifaaofficial&theme=dracula"/>
 
-<h2>🚀 Most Used Languages</h2>
-
-<p>🐍 Python — 40.86%</p>
-<img src="https://progress-bar.dev/41/?title=&width=400&color=3776AB">
-
-<p>🟨 JavaScript — 29.55%</p>
-<img src="https://progress-bar.dev/30/?title=&width=400&color=F7DF1E">
-
-<p>💙 Dart — 15.20%</p>
-<img src="https://progress-bar.dev/15/?title=&width=400&color=0175C2">
-
-<p>⚡ C++ — 10.40%</p>
-<img src="https://progress-bar.dev/10/?title=&width=400&color=00599C">
-
-<p>🔌 Arduino C — 8.50%</p>
-<img src="https://progress-bar.dev/9/?title=&width=400&color=00979D">
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aatifaaofficial&theme=dracula"/>
 
 </div>
-</div>
+
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aatifaaofficial&theme=tokyonight"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aatifaaofficial&theme=dracula"/>
 
+</div>
 </div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=%F0%9F%92%9C%20Thanks%20for%20Visiting%20My%20Profile%20%F0%9F%92%9C&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=70&color=0:6A5ACD,25:8A2BE2,50:00BFFF,75:00C9FF,100:6A5ACD" width="100%" />
