@@ -153,3 +153,14 @@
 <img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/AI%20Developer-Future%20Engineer-00C9FF?style=for-the-badge" />
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&lines=%F0%9F%92%9C+Thanks+For+Visiting+My+Profile!;%F0%9F%A4%96+AI+%7C+Machine+Learning+%7C+IoT+%7C+Robotics;%E2%AD%90+Don't+Forget+To+Star+My+Repositories!;%F0%9F%A4%9D+Let's+Connect+and+Build+Something+Amazing!;%F0%9F%9A%80+See+You+Again...+Happy+Coding!" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Made%20with-❤-ff69b4?style=for-the-badge" alt="Made with Love" />
+<img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github" alt="Open Source" />
+<img src="https://img.shields.io/badge/AI%20Developer-Future%20Engineer-00C9FF?style=for-the-badge" alt="AI Developer" />
+
+</div>
