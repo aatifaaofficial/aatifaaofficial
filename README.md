@@ -145,6 +145,20 @@
 <img height="170" src="https://streak-stats.demolab.com?user=aatifaaofficial&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 
 <div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aatifaaofficial&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aatifaaofficial&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aatifaaofficial&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=%F0%9F%92%9C%20Thanks%20for%20Visiting%20My%20Profile%20%F0%9F%92%9C&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=70&color=0:6A5ACD,25:8A2BE2,50:00BFFF,75:00C9FF,100:6A5ACD" width="100%" />
 <img src="https://img.shields.io/badge/Made%20with-❤-ff69b4?style=for-the-badge" alt="Made with Love" />
 <img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github" alt="Open Source" />
