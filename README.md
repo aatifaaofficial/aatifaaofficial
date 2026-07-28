@@ -147,7 +147,51 @@
 <div align="center">
 
 <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aatifaaofficial&theme=tokyonight"/>
+<div align="center">
 
+<h2>🚀 Most Used Languages</h2>
+
+<table>
+<tr>
+<td align="center">
+
+🐍 <b>Python</b><br>
+40.86%
+
+</td>
+
+<td align="center">
+
+🟨 <b>JavaScript</b><br>
+29.55%
+
+</td>
+
+<td align="center">
+
+💙 <b>Dart</b><br>
+15.20%
+
+</td>
+
+<td align="center">
+
+⚡ <b>C++</b><br>
+10.40%
+
+</td>
+
+<td align="center">
+
+🔌 <b>Arduino C</b><br>
+8.50%
+
+</td>
+
+</tr>
+</table>
+
+</div>
 </div>
 <div align="center">
 
