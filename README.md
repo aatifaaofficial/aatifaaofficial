@@ -154,8 +154,3 @@
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=%F0%9F%92%9C%20Thanks%20for%20Visiting%20My%20Profile%20%F0%9F%92%9C&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=70&color=0:6A5ACD,25:8A2BE2,50:00BFFF,75:00C9FF,100:6A5ACD" width="100%" />
-
-</div>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=%F0%9F%92%9C+Thanks+for+Visiting+My+Profile+%F0%9F%92%9C" alt="Typing SVG" />
-</p>
