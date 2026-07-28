@@ -138,36 +138,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
-###
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-
-  <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
-
-  <img src="https://streak-stats.demolab.com?user=aatifaaofficial&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
-
-  <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"/>
-
-  <img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity graph"/>
-
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aatifaaofficial&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=💜%20Thanks%20For%20Visiting%20My%20Profile!%20💜&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=70&color=0:6A5ACD,25:8A2BE2,50:00BFFF,75:00C9FF,100:6A5ACD" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&lines=💜+Thanks+For+Visiting+My+Profile!;🤖+AI+%7C+Machine+Learning+%7C+IoT+%7C+Robotics;⭐+Don't+Forget+To+Star+My+Repositories!;🤝+Let's+Connect+and+Build+Something+Amazing!;🚀+See+You+Again...+Happy+Coding!" />
 
