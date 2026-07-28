@@ -144,10 +144,56 @@
 
 <img height="170" src="https://streak-stats.demolab.com?user=aatifaaofficial&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 <div align="center">
+name: GitHub Metrics
 
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: aatifaaofficial
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Dhaka
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_colors: github
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+
+          plugin_stars: yes
+
+          plugin_followup: yes
+
+          plugin_lines: yes
+
+          plugin_topics: yes
+          plugin_topics_limit: 20
+
+          plugin_repositories: yes
+          plugin_repositories_featured: aatifaaofficial/English-Fun,aatifaaofficial/Automatic-Plant-Watering-System,aatifaaofficial/Smart-Helmet-with-Accident-Detection
+
+          filename: metrics.svg
 
 </div>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=%F0%9F%92%9C%20Thanks%20for%20Visiting%20My%20Profile%20%F0%9F%92%9C&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=70&color=0:6A5ACD,25:8A2BE2,50:00BFFF,75:00C9FF,100:6A5ACD" width="100%" />
 <img src="https://img.shields.io/badge/Made%20with-❤-ff69b4?style=for-the-badge" alt="Made with Love" />
