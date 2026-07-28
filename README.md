@@ -175,13 +175,6 @@
 <img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/AI%20Developer-Future%20Engineer-00C9FF?style=for-the-badge" />
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/stats-output/stats.svg" alt="GitHub Stats"/>
-
-<img height="165" src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/languages-output/languages.svg" alt="Top Languages"/>
 
 </div>
 
@@ -195,26 +188,3 @@
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aatifaaofficial&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/trophy-output/trophy.svg" alt="GitHub Trophies"/>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-
-  <img width="95%"
-       alt="Bomberman Contribution Graph"
-       src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-</picture>
-
-</div>
