@@ -177,4 +177,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=💜%20Thanks%20For%20Visiting%20My%20Profile!%20💜&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=70&color=0:6A5ACD,25:8A2BE2,50:00BFFF,75:00C9FF,100:6A5ACD" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=%F0%9F%92%9C%20Thanks%20for%20Visiting%20My%20Profile%20%F0%9F%92%9C&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=70&color=0:6A5ACD,25:8A2BE2,50:00BFFF,75:00C9FF,100:6A5ACD" width="100%" />
+
+</div>
