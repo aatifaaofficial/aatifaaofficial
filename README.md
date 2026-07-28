@@ -144,7 +144,60 @@
 
 <img height="170" src="https://streak-stats.demolab.com?user=aatifaaofficial&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 <div align="center">
+<div align="center">
 
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aatifaaofficial&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aatifaaofficial&theme=tokyonight"/>
+
+</div>
+
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aatifaaofficial&theme=tokyonight"/>
+
+</div>
+
+
+<br>
+
+<h2 align="center">🚀 Most Used Languages</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-40.86%25-blue?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-29.55%25-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Dart-15.20%25-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-10.40%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Arduino%20C-8.50%25-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+</div>
+
+
+<h2 align="center">🤖 AI • ML • IoT Tech Stack</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IoT-ESP32-black?style=for-the-badge&logo=espressif&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Embedded%20System-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flutter-Mobile%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-Database-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+</div>
 </div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=%F0%9F%92%9C%20Thanks%20for%20Visiting%20My%20Profile%20%F0%9F%92%9C&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=70&color=0:6A5ACD,25:8A2BE2,50:00BFFF,75:00C9FF,100:6A5ACD" width="100%" />
