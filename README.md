@@ -158,3 +158,8 @@
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aatifaaofficial&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=%F0%9F%A6%8B%20Hi%20World,%20I'm%20Jyoti%20%F0%9F%A6%8B&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=70&color=0:6A5ACD,25:8A2BE2,50:00BFFF,75:00C9FF,100:6A5ACD" width="100%" />
+
+</div>
