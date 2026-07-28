@@ -141,19 +141,6 @@
 <div align="center">
 <img height="170" src="https://streak-stats.demolab.com?user=aatifaaofficial&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 <div align="center">
-<div align="center">
-
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aatifaaofficial&theme=dracula"/>
-
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aatifaaofficial&theme=dracula"/>
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aatifaaofficial&theme=dracula"/>
-
-
-<img width="40%" src="https://svg-banners.vercel.app/api?type=typeWriter&width=500&height=250&text=Top%20Languages%20by%20Commit%0A%0A🐍%20Python%20%E2%80%94%2040.86%25%0A🟨%20JavaScript%20%E2%80%94%2029.55%25%0A💙%20Dart%20%E2%80%94%2015.20%25%0A⚡%20C%2B%2B%20%E2%80%94%2010.40%25%0A🔌%20Arduino%20C%20%E2%80%94%208.50%25&theme=dracula"/>
-
-</div>
 
 </div>
 
