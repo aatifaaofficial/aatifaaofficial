@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=700&lines=%F0%9F%A6%8BHi+World%2C+I'm+Jyoti%F0%9F%A6%8B" alt="Typing SVG" />
 </p>
-<h1 data-importer="text" align="center">🦋Hi World, I'm Jyoti🦋</h1>
+
 <!-- Animated Typing Banner -->
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Machine+Learning+Enthusiast;IoT+Developer;Robotics+Explorer;Python+Programmer;Building+Smart+Solutions+for+the+Future" /> </p>
