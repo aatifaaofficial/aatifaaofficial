@@ -151,45 +151,20 @@
 
 <h2>🚀 Most Used Languages</h2>
 
-<table>
-<tr>
-<td align="center">
+<p>🐍 Python — 40.86%</p>
+<img src="https://progress-bar.dev/41/?title=&width=400&color=3776AB">
 
-🐍 <b>Python</b><br>
-40.86%
+<p>🟨 JavaScript — 29.55%</p>
+<img src="https://progress-bar.dev/30/?title=&width=400&color=F7DF1E">
 
-</td>
+<p>💙 Dart — 15.20%</p>
+<img src="https://progress-bar.dev/15/?title=&width=400&color=0175C2">
 
-<td align="center">
+<p>⚡ C++ — 10.40%</p>
+<img src="https://progress-bar.dev/10/?title=&width=400&color=00599C">
 
-🟨 <b>JavaScript</b><br>
-29.55%
-
-</td>
-
-<td align="center">
-
-💙 <b>Dart</b><br>
-15.20%
-
-</td>
-
-<td align="center">
-
-⚡ <b>C++</b><br>
-10.40%
-
-</td>
-
-<td align="center">
-
-🔌 <b>Arduino C</b><br>
-8.50%
-
-</td>
-
-</tr>
-</table>
+<p>🔌 Arduino C — 8.50%</p>
+<img src="https://progress-bar.dev/9/?title=&width=400&color=00979D">
 
 </div>
 </div>
