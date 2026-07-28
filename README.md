@@ -141,6 +141,11 @@
 <div align="center">
 <img height="170" src="https://streak-stats.demolab.com?user=aatifaaofficial&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 <div align="center">
+<div align="center">
+
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aatifaaofficial&theme=dracula"/>
+
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aatifaaofficial&theme=dracula"/>
 
 </div>
 
