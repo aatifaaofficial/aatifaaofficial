@@ -161,3 +161,34 @@
 <img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github" alt="Open Source" />
 <img src="https://img.shields.io/badge/AI%20Developer-Future%20Engineer-00C9FF?style=for-the-badge" alt="AI Developer" />
 </div>
+<h2 align="left">🌐 Connect with Me</h2>
+
+<p align="left">
+  <a href="https://www.facebook.com/aatifaa.jyoti" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="48" alt="Facebook"/>
+  </a>
+
+  <a href="https://www.instagram.com/aatifaaofficial1/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram"/>
+  </a>
+
+  <a href="https://whatsapp.com/channel/0029Vb6IYop8F2pMCzzLIf11" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" height="48" alt="WhatsApp"/>
+  </a>
+
+  <a href="https://t.me/aatifaaofficial1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" height="48" alt="Telegram"/>
+  </a>
+
+  <a href="mailto:aatifaaofficial1@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
+  </a>
+
+  <a href="https://x.com/aatifaaofficial1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/aatifaa-jyoti-04635b296/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
+  </a>
+</p>
