@@ -120,47 +120,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
-<h4 data-importer="text" align="left">Connect with me:</h4>
-
-###
-
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/wechat/default.svg" width="52" height="40" alt="wechat logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
-</div>
-<div align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=aatifaaofficial&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-<div align="center">
-<div align="center">
-
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aatifaaofficial&theme=dracula"/>
-
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aatifaaofficial&theme=dracula"/>
-
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aatifaaofficial&theme=dracula"/>
-
-</div>
-</div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=%F0%9F%92%9C%20Thanks%20for%20Visiting%20My%20Profile%20%F0%9F%92%9C&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=70&color=0:6A5ACD,25:8A2BE2,50:00BFFF,75:00C9FF,100:6A5ACD" width="100%" />
-<img src="https://img.shields.io/badge/Made%20with-❤-ff69b4?style=for-the-badge" alt="Made with Love" />
-<img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github" alt="Open Source" />
-<img src="https://img.shields.io/badge/AI%20Developer-Future%20Engineer-00C9FF?style=for-the-badge" alt="AI Developer" />
-</div>
 <h2 align="left">🌐 Connect with Me</h2>
 
 <p align="left">
@@ -192,3 +151,28 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
   </a>
 </p>
+
+</div>
+<div align="center">
+<img height="170" src="https://streak-stats.demolab.com?user=aatifaaofficial&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+<div align="center">
+<div align="center">
+
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aatifaaofficial&theme=dracula"/>
+
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aatifaaofficial&theme=dracula"/>
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aatifaaofficial&theme=dracula"/>
+
+</div>
+</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=%F0%9F%92%9C%20Thanks%20for%20Visiting%20My%20Profile%20%F0%9F%92%9C&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=70&color=0:6A5ACD,25:8A2BE2,50:00BFFF,75:00C9FF,100:6A5ACD" width="100%" />
+<img src="https://img.shields.io/badge/Made%20with-❤-ff69b4?style=for-the-badge" alt="Made with Love" />
+<img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github" alt="Open Source" />
+<img src="https://img.shields.io/badge/AI%20Developer-Future%20Engineer-00C9FF?style=for-the-badge" alt="AI Developer" />
+</div>
