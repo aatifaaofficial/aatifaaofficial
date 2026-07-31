@@ -168,3 +168,6 @@
 <div align="center">
 
 <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aatifaaofficial&theme=dracula"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1200&color=FF61F6&center=true&vCenter=true&width=1000&lines=╭─❀+💜+Thanks+for+Visiting+My+Profile+💜+❀─╮" alt="Typing SVG" />
+</p>
