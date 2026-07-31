@@ -123,35 +123,36 @@
 <h2 align="left">🌐 Connect with Me</h2>
 
 <p align="left">
-  <a href="https://www.facebook.com/aatifaa.jyoti" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="48" alt="Facebook"/>
-  </a>
 
-  <a href="https://www.instagram.com/aatifaaofficial1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram"/>
-  </a>
+<a href="https://www.facebook.com/aatifaa.jyoti" target="_blank">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook"/>
+</a>
 
-  <a href="https://whatsapp.com/channel/0029Vb6IYop8F2pMCzzLIf11" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="48" alt="WhatsApp"/>
-  </a>
+<a href="https://www.instagram.com/aatifaaofficial1/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
+</a>
 
-  <a href="https://t.me/aatifaaofficial1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" height="48" alt="Telegram"/>
-  </a>
+<a href="https://whatsapp.com/channel/0029Vb6IYop8F2pMCzzLIf11" target="_blank">
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45" alt="WhatsApp"/>
+</a>
 
-  <a href="mailto:aatifaaofficial1@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
-  </a>
+<a href="https://t.me/aatifaaofficial1" target="_blank">
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" height="45" alt="Telegram"/>
+</a>
 
-  <a href="https://x.com/aatifaaofficial1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X"/>
-  </a>
+<a href="mailto:aatifaaofficial1@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/aatifaa-jyoti-04635b296/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
-  </a>
+<a href="https://x.com/aatifaaofficial1" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="45" alt="X"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aatifaa-jyoti-04635b296/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+</a>
+
 </p>
-
 </div>
 <div align="center">
 <img height="170" src="https://streak-stats.demolab.com?user=aatifaaofficial&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak"/>
