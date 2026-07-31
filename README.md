@@ -168,21 +168,3 @@
 <div align="center">
 
 <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aatifaaofficial&theme=dracula"/>
-
-</div>
-</div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=%F0%9F%92%9C%20Thanks%20for%20Visiting%20My%20Profile%20%F0%9F%92%9C&fontSize=36&fontColor=ffffff&animation=twinkling&fontAlignY=70&color=0:6A5ACD,25:8A2BE2,50:00BFFF,75:00C9FF,100:6A5ACD" width="100%" />
-<img src="https://img.shields.io/badge/Made%20with-❤-ff69b4?style=for-the-badge" alt="Made with Love" />
-<img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github" alt="Open Source" />
-<img src="https://img.shields.io/badge/AI%20Developer-Future%20Engineer-00C9FF?style=for-the-badge" alt="AI Developer" />
-</div>
-<p align="center">
-<a href="https://www.facebook.com/aatifaa.jyoti"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/aatifaaofficial1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://whatsapp.com/channel/0029Vb6IYop8F2pMCzzLIf11"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://t.me/aatifaaofficial1"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="mailto:aatifaaofficial1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/aatifaaofficial1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aatifaa-jyoti-04635b296/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
