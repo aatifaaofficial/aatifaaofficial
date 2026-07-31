@@ -159,9 +159,9 @@
 <div align="center">
 <div align="center">
 
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aatifaaofficial&theme=dracula"/>
+<img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aatifaaofficial&theme=dracula"/>
 
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aatifaaofficial&theme=dracula"/>
+<img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aatifaaofficial&theme=dracula"/>
 
 </div>
 
