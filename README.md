@@ -171,11 +171,3 @@
 <p align="center">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=1050&lines=%F0%9F%8C%B8+Thanks+For+Visiting+My+Profile+%F0%9F%8C%B8" alt="Typing SVG" />
-</p>
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aatifaaofficial&theme=dracula" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aatifaaofficial&theme=dracula" />
-
-</div>
