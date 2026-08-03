@@ -171,3 +171,18 @@
 <p align="center">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=1050&lines=%F0%9F%8C%B8+Thanks+For+Visiting+My+Profile+%F0%9F%8C%B8" alt="Typing SVG" />
+<div align="center">
+
+  <img height="170" src="https://streak-stats.demolab.com?user=aatifaaofficial&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+
+  <br><br>
+
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aatifaaofficial&theme=dracula"/>
+
+  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aatifaaofficial&theme=dracula"/>
+
+  <br><br>
+
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aatifaaofficial&theme=dracula"/>
+
+</div>
