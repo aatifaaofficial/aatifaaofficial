@@ -162,95 +162,13 @@
 <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aatifaaofficial&theme=dracula"/>
 
 <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aatifaaofficial&theme=dracula"/>
-
 </div>
-
 <div align="center">
-
 <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aatifaaofficial&theme=dracula"/>
 <p align="center">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=1050&lines=%F0%9F%8C%B8+Thanks+For+Visiting+My+Profile+%F0%9F%8C%B8" alt="Typing SVG" />
 <div align="center">
-
-<!-- ===================== Banner ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,6A5ACD,00E5FF&height=220&section=header&text=Hi%20World!%20I'm%20Jyoti%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20|%20Machine%20Learning%20|%20IoT%20|%20Flutter&descAlignY=55"/>
-</p>
-
-<!-- ===================== Typing ===================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=💜+Welcome+to+my+GitHub+Profile!;🤖+AI+%7C+Machine+Learning+%7C+IoT;📱+Flutter+Developer;💻+Always+Learning+New+Things!" />
-</p>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 CSE Student
-- 🤖 Learning AI & Machine Learning
-- 📱 Flutter Developer
-- 🌱 Currently exploring IoT & Robotics
-- 💜 Love Open Source
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aatifaaofficial&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=aatifaaofficial&theme=dracula&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatifaaofficial&layout=compact&theme=dracula&hide_border=true"/>
-
-</p>
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,dart,flutter,cpp,c,firebase,git,github,vscode,tensorflow,arduino"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.facebook.com/aatifaa.jyoti">
-<img src="https://skillicons.dev/icons?i=facebook" height="48"/>
-</a>
-
-<a href="https://www.instagram.com/aatifaaofficial1/">
-<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
-</a>
-
-<a href="https://github.com/aatifaaofficial">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=aatifaaofficial&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,00E5FF&height=120&section=footer"/>
-
 </p>
