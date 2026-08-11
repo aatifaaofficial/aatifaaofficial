@@ -172,3 +172,11 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,00E5FF&height=120&section=footer"/>
 </p>
+📈 top_languages
+<div align="center"> <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatifaaofficial&layout=compact&hide_border=true&bg_color=05070D&title_color=00E5FF&text_color=FFFFFF"/> </div> <br> <div align="center">
+🐍 Python       ████████████████████  40.86%
+🟨 JavaScript   ███████████████       29.55%
+💙 Dart         ████████              15.20%
+⚡ C++          █████                 10.40%
+🔌 Arduino C    ████                   8.50%
+</div>
