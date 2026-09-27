@@ -1,613 +1,624 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=2800&pause=900&color=FF4FD8&center=true&vCenter=true&width=1000&lines=🦋+AATIFAA+JYOTI;AI+ENGINEER+IN+PROGRESS;MACHINE+LEARNING+ENTHUSIAST;IoT+%26+ROBOTICS+EXPLORER;TURNING+IDEAS+INTO+INTELLIGENT+SYSTEMS" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                        HERO SECTION                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=900&lines=%F0%9F%A6%8B+Hi+World%2C+I'm+Jyoti+%F0%9F%A6%8B;AI+Engineer+in+Progress;Machine+Learning+Enthusiast;IoT+%26+Robotics+Developer;Computer+Vision+Explorer;Python+%7C+Flutter+%7C+AI+%7C+IoT" alt="Typing SVG" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:12002F,35:5B1675,70:FF4FD8,100:00E5FF&text=AATIFAA%20JYOTI&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=AI%20%7C%20ML%20%7C%20IoT%20%7C%20ROBOTICS%20%7C%20SOFTWARE&descAlignY=60&descSize=18" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=aatifaaofficial&label=PROFILE%20VISITORS&style=for-the-badge&color=ff4fd8"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `SYSTEM.INITIALIZE()`
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   USER          →  Aatifaa Jyoti                             │
-│   ROLE          →  AI Engineer in Progress                   │
-│   UNIVERSITY    →  Shanto-Mariam University of Creative      │
-│                    Technology (SMUCT)                         │
-│   DEPARTMENT    →  CSE & CSIT                                │
-│   BATCH         →  31st                                      │
-│                                                              │
-│   CORE DOMAIN   →  Artificial Intelligence                   │
-│                   Machine Learning                           │
-│                   IoT & Embedded Systems                     │
-│                   Robotics & Automation                      │
-│                   Computer Vision                            │
-│                   Mobile Application Development             │
-│                                                              │
-│   STATUS        →  LEARNING • BUILDING • RESEARCHING        │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-# 🧬 `WHO_AM_I`
-
-<table>
-<tr>
-<td width="55%">
-
-### 👩‍💻 About Me
-
-I'm **Aatifaa Jyoti**, a Computer Science student at **Shanto-Mariam University of Creative Technology (SMUCT)**, passionate about building intelligent and practical technology.
-
-My journey combines:
-
-> 🧠 Artificial Intelligence
-> 🤖 Machine Learning
-> 👁️ Computer Vision
-> 🌐 Internet of Things
-> 🦾 Robotics
-> 📱 Application Development
-> 🔬 AI Research
-
-I enjoy taking an idea from a **simple concept → prototype → working system**.
-
-</td>
-
-<td width="45%">
-
-<img src="https://i.imgflip.com/65efzo.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# 🎓 `ACADEMIC.IDENTITY`
-
-<div align="center">
-
-### 🏛️ SHANTO-MARIAM UNIVERSITY OF CREATIVE TECHNOLOGY
-
-**Department of Computer Science & Engineering / CSIT**
-
-<table>
-<tr>
-<td align="center">
-
-🎓
-**31st Batch**
-
-</td>
-
-<td align="center">
-
-💻
-**Computer Science**
-
-</td>
-
-<td align="center">
-
-🧠
-**AI & Technology**
-
-</td>
-
-<td align="center">
-
-🤖
-**IoT & Robotics**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# ⚡ `MY_TECHNOLOGY_MATRIX`
-
-<div align="center">
-
-|          DOMAIN         | TECHNOLOGIES                                        |
-| :---------------------: | :-------------------------------------------------- |
-|      🧠 **AI / ML**     | Python • Scikit-Learn • TensorFlow • NumPy • Pandas |
-| 👁️ **Computer Vision** | OpenCV • MediaPipe • Image Processing               |
-|        🤖 **IoT**       | Arduino • ESP32 • Sensors • Relays • Automation     |
-|     🦾 **Robotics**     | Servo Systems • Motors • Embedded Control           |
-|      📱 **Mobile**      | Flutter • Dart • Firebase                           |
-|        🌐 **Web**       | HTML • CSS • JavaScript • React • Next.js           |
-|      ⚙️ **Backend**     | Django • FastAPI                                    |
-|     🗄️ **Database**    | MySQL • MongoDB • Firebase                          |
-|       ☁️ **Cloud**      | AWS • Azure • Firebase                              |
-|      🛠️ **Tools**      | Git • GitHub • GitLab • VS Code • Jupyter           |
-
-</div>
-
----
-
-# 🧠 `AI_ENGINEERING_STACK`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+<img src="https://komarev.com/ghpvc/?username=aatifaaofficial&label=PROFILE+VIEWS&color=FF61F6&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=180&section=header&text=AATIFAA%20JYOTI&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20IoT%20%7C%20ROBOTICS%20%7C%20SOFTWARE&descAlignY=58&descSize=18"/>
 
 </div>
 
-### 🔬 Exploring
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-```text
-Machine Learning
-       │
-       ├── Supervised Learning
-       ├── Unsupervised Learning
-       ├── Classification
-       ├── Regression
-       └── Feature Engineering
-              │
-              ▼
-        Deep Learning
-              │
-              ├── Neural Networks
-              ├── CNN
-              └── Model Optimization
-              │
-              ▼
-        Computer Vision
-              │
-              ├── OpenCV
-              ├── MediaPipe
-              └── Real-Time Vision
-              │
-              ▼
-        Intelligent Systems
-```
+<!--                         ABOUT ME                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🌸 About Me</h2>
+
+<table align="center">
+<tr>
+<td width="58%">
+
+### 👩‍💻 Hello, I'm Aatifaa Jyoti!
+
+🎓 **CSE & CSIT Student** at **Shanto-Mariam University of Creative Technology (SMUCT)**
+
+💻 Passionate about **Artificial Intelligence, Machine Learning, IoT, Robotics & Software Development.**
+
+🔭 Currently working on:
+
+* 🤖 AI & Machine Learning projects
+* 🌐 IoT & Embedded Systems
+* 👁️ Computer Vision
+* 📱 Flutter Applications
+* 🔬 AI-based research ideas
+
+🌱 Currently learning:
+
+* Python & Machine Learning
+* Computer Vision
+* Embedded Systems
+* AI-powered applications
+
+💡 I enjoy turning **ideas into real working projects**.
+
+🤝 Open to collaboration on **AI, ML, IoT, Robotics & Software projects.**
+
+⚡ **Fun Fact:** I love building smart systems more than just talking about them.
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://i.imgflip.com/65efzo.gif" width="320"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=350&lines=Think+%E2%86%92+Build+%E2%86%92+Test;Learn+%E2%86%92+Create+%E2%86%92+Improve;Code+with+Purpose+%F0%9F%92%97" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🌐 `IOT × AI × ROBOTICS`
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                    UNIVERSITY SECTION                          -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🎓 My Academic Journey</h2>
 
 <div align="center">
 
-```text
-                 ┌───────────────────────┐
-                 │       ARTIFICIAL      │
-                 │     INTELLIGENCE      │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │     MACHINE LEARNING  │
-                 └───────────┬───────────┘
-                             │
-              ┌──────────────┴──────────────┐
-              ▼                             ▼
-      ┌───────────────┐             ┌───────────────┐
-      │     IoT       │             │    ROBOTICS   │
-      └───────┬───────┘             └───────┬───────┘
-              │                             │
-              └──────────────┬──────────────┘
-                             ▼
-                  ┌────────────────────┐
-                  │   SMART SYSTEMS    │
-                  └────────────────────┘
-```
+<img src="https://img.shields.io/badge/University-Shanto--Mariam%20University%20of%20Creative%20Technology-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Department-CSE%20%26%20CSIT-FF61F6?style=for-the-badge&logo=academia&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Batch-31st-00E5FF?style=for-the-badge&logo=bookstack&logoColor=white"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center">🎓<br><b>Computer Science</b></td>
+<td align="center">🧠<br><b>Artificial Intelligence</b></td>
+<td align="center">🤖<br><b>Robotics</b></td>
+<td align="center">🌐<br><b>IoT</b></td>
+<td align="center">🔬<br><b>Research</b></td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🚀 `PROJECT.UNIVERSE`
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🏢 01 — Smart Building Automation System
+<!--                       MY FOCUS                                 -->
 
-> **IoT + Automation + Embedded Systems**
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-```text
+<h2 align="center">💫 My Technology Universe</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 🧠
+
+**AI / ML**
+
+Machine Learning
+Deep Learning
+NLP
+Prediction Systems
+
+</td>
+
+<td align="center" width="20%">
+
+### 👁️
+
+**Computer Vision**
+
+OpenCV
+MediaPipe
+Gesture Detection
+Image Processing
+
+</td>
+
+<td align="center" width="20%">
+
+### 🌐
+
+**IoT**
+
+Arduino
+ESP32
 Sensors
-   ↓
-Arduino / ESP32
-   ↓
-Data Processing
-   ↓
-Decision Logic
-   ↓
-Relay Control
-   ↓
-Smart Building
-```
+Automation
 
-### 🔌 Hardware
+</td>
 
-`Arduino UNO` `ESP32` `DHT11` `MQ-135` `IR Sensor` `Fire Sensor` `Water Sensor` `Relay Module` `DC Motor` `Fan` `LED`
+<td align="center" width="20%">
 
-### ⚡ Capabilities
+### 🦾
 
-* 🌡️ Temperature monitoring
-* 💧 Water-level monitoring
-* 🔥 Fire detection
-* 🌫️ Air-quality monitoring
-* 💡 Automatic lighting
-* 🌀 Fan automation
-* ⚙️ Motor control
-* 🚨 Emergency alert system
+**Robotics**
+
+Motors
+Servos
+Embedded Control
+Smart Robots
+
+</td>
+
+<td align="center" width="20%">
+
+### 📱
+
+**Software**
+
+Flutter
+Firebase
+Web
+Applications
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-# ✋ 02 — Air Draw Controller
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### `COMPUTER VISION × HUMAN COMPUTER INTERACTION`
+<!--                      SKILLS                                   -->
 
-A real-time system that transforms **hand movement into digital drawing commands**.
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-```text
-Webcam
-   ↓
-Hand Detection
-   ↓
-Landmark Tracking
-   ↓
-Gesture Recognition
-   ↓
-Coordinate Mapping
-   ↓
-Digital Canvas
-```
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-### Technologies
+<h3 align="left">💻 Programming Languages</h3>
 
-`Python` `OpenCV` `MediaPipe` `Computer Vision`
+<p align="left">
 
-### Features
+<img src="https://skillicons.dev/icons?i=python,c,cpp,dart,javascript,java,arduino" />
+
+</p>
+
+<h3 align="left">🤖 AI / Machine Learning</h3>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45"/>
+
+</p>
+
+<h3 align="left">🌐 IoT / Embedded / Robotics</h3>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45"/>
+
+</p>
+
+<p>
+
+`Arduino` `ESP32` `DHT11` `MQ-135` `IR Sensor` `Fire Sensor` `Water Sensor` `Relay` `DC Motor` `Servo`
+
+</p>
+
+<h3 align="left">📱 Frontend & Mobile</h3>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css,javascript,nextjs" />
+
+</p>
+
+<h3 align="left">⚙️ Backend & Cloud</h3>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=django,fastapi,firebase,aws,azure" />
+
+</p>
+
+<h3 align="left">🗄️ Database</h3>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+
+</p>
+
+<h3 align="left">🔧 Tools</h3>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,postman" />
+
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       PROJECTS                                 -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🏢 Smart Building Automation</h3>
+
+<p align="center">
+
+<strong>IoT • Arduino • Sensors • Automation</strong>
+
+</p>
+
+<p>
+A smart building prototype designed to monitor environmental conditions and automatically control different electrical devices.
+</p>
+
+<b>Features:</b>
+
+🌡️ Temperature & Humidity
+🔥 Fire Detection
+🌫️ Air Quality Monitoring
+💧 Water Level Detection
+💡 Automatic Light
+🌀 Fan Control
+⚙️ Motor Automation
+🔔 Emergency Alert
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">✋ Air Draw Controller</h3>
+
+<p align="center">
+
+<strong>Python • OpenCV • MediaPipe</strong>
+
+</p>
+
+<p>
+A Computer Vision project that allows users to draw and interact with a computer screen using hand movements.
+</p>
+
+<b>Features:</b>
 
 ✋ Hand Tracking
-🎯 Gesture Detection
+👆 Gesture Recognition
 🎨 Air Drawing
 ⚡ Real-Time Processing
-🖱️ Mouse-Free Interaction
+🖥️ Mouse-Free Interaction
 
----
+</td>
 
-# 🥗 03 — Personal Diet Journal
+</tr>
 
-### `HEALTH × DATA × MOBILE`
+<tr>
 
-A smart personal lifestyle tracking application.
+<td width="50%">
 
-**Tracks:**
+<h3 align="center">🥗 Personal Diet Journal</h3>
 
-`Meals` • `Calories` • `Water` • `Weight` • `Mood` • `Energy` • `Sleep` • `Exercise`
+<p align="center">
 
-### Dashboard Concept
+<strong>Flutter • Dart • Firebase</strong>
 
-```text
-        PERSONAL HEALTH DATA
-                 │
-     ┌───────────┼───────────┐
-     ▼           ▼           ▼
-   FOOD        WATER       SLEEP
-     │           │           │
-     └───────────┼───────────┘
-                 ▼
-          HEALTH INSIGHTS
-                 │
-                 ▼
-        PERSONAL TRENDS
-```
+</p>
 
-**Stack:** `Flutter` `Dart` `Firebase`
+<p>
+A personal lifestyle and diet tracking application for recording meals, water, weight, mood, energy, sleep and physical activity.
+</p>
 
----
+<b>Core Modules:</b>
 
-# 📚 04 — English Fun
+🍽️ Meals
+💧 Water
+⚖️ Weight
+😴 Sleep
+😊 Mood
+🏃 Activity
+📊 Health Trends
 
-### `MOBILE LEARNING × GAMIFICATION`
+</td>
 
-An interactive English learning application.
+<td width="50%">
 
-**Features**
+<h3 align="center">📚 English Fun</h3>
+
+<p align="center">
+
+<strong>Flutter • Riverpod • Firebase</strong>
+
+</p>
+
+<p>
+An interactive English learning application focused on vocabulary, practice, flashcards and quizzes.
+</p>
+
+<b>Features:</b>
 
 📖 Vocabulary
 🃏 Flashcards
 📝 Quiz
 🎯 Daily Practice
 🔥 Streak
-⭐ XP
+⭐ XP System
 👤 Profile
 
-**Stack**
+</td>
 
-`Flutter` `Dart` `Riverpod` `GoRouter` `Firebase`
+</tr>
+</table>
 
 ---
 
-# 🔬 `RESEARCH.LAB`
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-My research interests focus on applying AI to real-world problems.
+<!--                       RESEARCH                                 -->
 
-### 🩺 Healthcare AI
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🔬 Research & Thesis Interests</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=AI+for+Healthcare;Intelligent+Risk+Prediction;Computer+Vision+Research;Smart+Prenatal+Monitoring;AI+%2B+IoT+Healthcare+Systems" />
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">🩺<br><b>Healthcare AI</b><br>Risk Prediction</td>
+<td align="center">🤰<br><b>Maternal Health</b><br>Prenatal Monitoring</td>
+<td align="center">🧠<br><b>AI Research</b><br>Prediction Models</td>
+<td align="center">👁️<br><b>Computer Vision</b><br>Image Analysis</td>
+</tr>
+</table>
+
+### Current Research Areas
+
+* 🤰 High-Risk Pregnancy Detection
+* 🩺 Maternal Health Monitoring
+* 👶 Low Birth Weight Risk Prediction
+* 🧬 Uterine Health Analysis
+* 🧠 AI-based Health Prediction
+* 👧 AI applications for children
+* 🫁 Respiratory / Lung Risk Analysis
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       ROBOTICS                                 -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🤖 Robotics & IoT Lab</h2>
+
+<div align="center">
 
 ```text
-AI
-│
-├── High-Risk Pregnancy Detection
-│
-├── Prenatal Health Monitoring
-│
-├── Low Birth Weight Prediction
-│
-├── Maternal Risk Prediction
-│
-└── Uterine Health Analysis
+             💡 IDEA
+                │
+                ▼
+        ┌───────────────┐
+        │   HARDWARE    │
+        └───────┬───────┘
+                │
+        Sensors • Motors
+                │
+                ▼
+        ┌───────────────┐
+        │   EMBEDDED    │
+        │    SYSTEM     │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │      IoT      │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │      AI       │
+        └───────┬───────┘
+                │
+                ▼
+        🤖 SMART SYSTEM
 ```
 
-### 🧠 AI for Children
+</div>
 
-* ADHD-related research
-* Child behavioral analysis
-* Intelligent education systems
-* AI-assisted learning
+### 🔧 Robotics / IoT Concepts
 
-### 🫁 AI & Respiratory Health
-
-* Lung disease prediction
-* Respiratory risk analysis
-* Smoking-related health research
-
-> **Research Direction:** Developing data-driven systems that can assist with early risk identification and intelligent monitoring.
+`🐕 Quadruped Robot`
+`🚦 Smart Traffic Control`
+`🪖 Smart Helmet`
+`🌱 Automatic Plant Watering`
+`🚗 IoT Smart Car`
+`🛗 Smart Escalator`
+`🏢 Smart Building Automation`
 
 ---
 
-# 🦾 `ROBOTICS.LAB`
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                    CURRENTLY LEARNING                          -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🌱 Currently Learning</h2>
 
 <div align="center">
 
-|           PROJECT           |       AREA       |
-| :-------------------------: | :--------------: |
-|      🐕 Quadruped Robot     |     Robotics     |
-|   🚦 Smart Traffic System   | IoT + Automation |
-|       🪖 Smart Helmet       |   IoT + Safety   |
-| 🌱 Automatic Plant Watering |        IoT       |
-|       🚗 Smart IoT Car      |     Robotics     |
-|      🏢 Smart Building      |        IoT       |
-|      🛗 Smart Escalator     |    Automation    |
+<img src="https://img.shields.io/badge/Python-FF61F6?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00C9FF?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-FF61F6?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Robotics-8A2BE2?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-00C9FF?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 </div>
 
 ---
 
-# 📱 `APPLICATION.LAB`
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### Flutter Development
+<!--                       DEVELOPMENT MINDSET                     -->
 
-```text
-Flutter
-  │
-  ├── Dart
-  ├── Material UI
-  ├── Riverpod
-  ├── GoRouter
-  ├── Firebase
-  └── REST APIs
-```
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-Interested in developing:
-
-`Health Apps` • `Education Apps` • `Productivity Apps` • `Smart IoT Apps`
-
----
-
-# 📈 `SKILL.PROGRESS`
+<h2 align="center">💭 My Development Philosophy</h2>
 
 <div align="center">
 
-| Skill               |           Level          |
-| :------------------ | :----------------------: |
-| 🐍 Python           | ██████████████████░░ 90% |
-| 🧠 Machine Learning | █████████████████░░░ 85% |
-| 🤖 IoT              | ████████████████░░░░ 80% |
-| 📱 Flutter          | ████████████████░░░░ 80% |
-| 👁️ Computer Vision | ███████████████░░░░░ 75% |
-| 🦾 Robotics         | ██████████████░░░░░░ 70% |
-| 🧬 Deep Learning    | ████████████░░░░░░░░ 60% |
+### `LEARN → BUILD → TEST → FAIL → DEBUG → IMPROVE → REPEAT`
 
-</div>
+<br>
 
-> These represent my current learning focus, not formal certifications or measured proficiency scores.
-
----
-
-# 💻 `PROGRAMMING.LANGUAGES`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,dart,javascript,java,arduino" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=850&lines=Don't+just+learn+technology.;Build+with+it.;Don't+just+write+code.;Create+something+useful.;Every+project+is+another+step+forward." />
 
 </div>
 
 ---
 
-# 🌸 `DEVELOPER.PERSONALITY`
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-```python
-class AatifaaJyoti:
+<!--                       GITHUB STATS                            -->
 
-    role = "AI Engineer in Progress"
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "IoT",
-        "Robotics",
-        "Computer Vision",
-        "Mobile Development"
-    ]
-
-    mindset = [
-        "Learn",
-        "Build",
-        "Experiment",
-        "Fail",
-        "Improve",
-        "Repeat"
-    ]
-
-    mission = "Turn ideas into intelligent systems."
-
-    currently = "Building + Learning + Researching"
-```
-
----
-
-# 📊 `GITHUB.TERMINAL`
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aatifaaofficial&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aatifaaofficial&show_icons=true&theme=dracula&hide_border=true&border_radius=15&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aatifaaofficial&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=aatifaaofficial&theme=dracula&hide_border=true&border_radius=15" />
 
 <br><br>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatifaaofficial&layout=donut-vertical&theme=tokyonight&hide_border=true" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatifaaofficial&layout=compact&theme=dracula&hide_border=true&border_radius=15" />
+
+<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aatifaaofficial&theme=dracula" />
 
 </div>
 
 ---
 
-# 🐍 `CONTRIBUTION.GRID`
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                    CONTRIBUTION SNAKE                          -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🐍 Contribution Journey</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🏆 `ACHIEVEMENTS`
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       ACHIEVEMENTS                             -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🏆 Activities & Achievements</h2>
 
 <div align="center">
 
-🎓 **University Project Development**
-🤖 **IoT & Robotics Projects**
-💻 **Software Project Development**
-🧠 **AI / ML Exploration**
-👁️ **Computer Vision Projects**
-🔬 **Research & Thesis Development**
-🎪 **University Tech Fest Participation**
-🙋 **Volunteer Activities**
+<img src="https://img.shields.io/badge/🎓-University%20Projects-FF61F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖-IoT%20%26%20Robotics-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠-AI%20%26%20ML-00C9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔬-Research-FF61F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻-Software%20Development-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎪-Tech%20Fest-00C9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🙋-Volunteer-FF61F6?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌍 `OPEN_TO`
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       CONNECT                                  -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
-
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│   🤝 Open Source Collaboration             │
-│   🧠 AI / ML Projects                      │
-│   🤖 IoT & Robotics Projects               │
-│   📱 Mobile Application Projects           │
-│   🔬 Research Collaboration                │
-│   🚀 Innovative Technology Projects        │
-│                                            │
-╰────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-# 🔗 `CONNECT_WITH_ME`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aatifaa-jyoti-04635b296/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://github.com/aatifaaofficial">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/aatifaa.jyoti">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" height="50"/>
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook"/>
 </a>
-&nbsp;&nbsp;
+
+  
 
 <a href="https://www.instagram.com/aatifaaofficial1/">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
 </a>
-&nbsp;&nbsp;
+
+  
+
+<a href="https://whatsapp.com/channel/0029Vb6IYop8F2pMCzzLIf11">
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45" alt="WhatsApp"/>
+</a>
+
+  
 
 <a href="https://t.me/aatifaaofficial1">
-<img src="https://cdn.simpleicons.org/telegram/26A5E4" height="50"/>
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" height="45" alt="Telegram"/>
 </a>
-&nbsp;&nbsp;
+
+  
 
 <a href="mailto:aatifaaofficial1@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://x.com/aatifaaofficial1">
-<img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-# 🌌 `THE.JOURNEY.CONTINUES`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Learning+Artificial+Intelligence+🧠;Building+Smart+Systems+🤖;Exploring+Robotics+🦾;Creating+with+Code+💻;Researching+for+Tomorrow+🔬" />
-
-<br><br>
-
-### `LEARN → BUILD → BREAK → DEBUG → IMPROVE → REPEAT`
-
-<br>
-
-**“Ideas become powerful when you build them.”**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,40:FF4FD8,70:8A2BE2,100:12002F&height=150&section=footer&animation=twinkling"/>
-
-</div>
