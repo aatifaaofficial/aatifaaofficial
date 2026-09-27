@@ -412,13 +412,13 @@ An interactive English learning application focused on vocabulary, practice, fla
 
 ### Current Research Areas
 
- 🤰 High-Risk Pregnancy Detection
- 🩺 Maternal Health Monitoring
- 👶 Low Birth Weight Risk Prediction
- 🧬 Uterine Health Analysis
- 🧠 AI-based Health Prediction
- 👧 AI applications for children
- 🫁 Respiratory / Lung Risk Analysis
+*🤰 High-Risk Pregnancy Detection
+*🩺 Maternal Health Monitoring
+*👶 Low Birth Weight Risk Prediction
+*🧬 Uterine Health Analysis
+*🧠 AI-based Health Prediction
+*👧 AI applications for children
+*🫁 Respiratory / Lung Risk Analysis 
 
 ---
 
