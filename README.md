@@ -12,11 +12,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=aatifaaofficial&label=PROFILE+VIEWS&color=FF61F6&style=for-the-badge" alt="Profile Views"/>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=180&section=header&text=AATIFAA%20JYOTI&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20IoT%20%7C%20ROBOTICS%20%7C%20SOFTWARE&descAlignY=58&descSize=18"/>
-
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -24,7 +19,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🌸 About Me</h2>
+<h2 align="center">🌸 About Me 🌸</h2>
 
 <table align="center">
 <tr>
@@ -544,23 +539,6 @@ An interactive English learning application focused on vocabulary, practice, fla
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    CONTRIBUTION SNAKE                          -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🐍 Contribution Journey</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aatifaaofficial/aatifaaofficial/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -592,33 +570,35 @@ An interactive English learning application focused on vocabulary, practice, fla
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-<div align="center">
+<p align="left">
 
-<a href="https://www.facebook.com/aatifaa.jyoti">
+<a href="https://www.facebook.com/aatifaa.jyoti" target="_blank">
 <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook"/>
 </a>
 
-  
-
-<a href="https://www.instagram.com/aatifaaofficial1/">
+<a href="https://www.instagram.com/aatifaaofficial1/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
 </a>
 
-  
-
-<a href="https://whatsapp.com/channel/0029Vb6IYop8F2pMCzzLIf11">
+<a href="https://whatsapp.com/channel/0029Vb6IYop8F2pMCzzLIf11" target="_blank">
 <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="45" alt="WhatsApp"/>
 </a>
 
-  
-
-<a href="https://t.me/aatifaaofficial1">
+<a href="https://t.me/aatifaaofficial1" target="_blank">
 <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="45" alt="Telegram"/>
 </a>
-
-  
 
 <a href="mailto:aatifaaofficial1@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
 </a>
 
+<a href="https://x.com/aatifaaofficial1" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="45" alt="X"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aatifaa-jyoti-04635b296/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+</a>
+
+</p>
+</div>
