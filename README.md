@@ -416,7 +416,7 @@ An interactive English learning application focused on vocabulary, practice, fla
 * 🩺 Maternal Health Monitoring
 * 👶 Low Birth Weight Risk Prediction
 * 🧬 Uterine Health Analysis
-* 🧠 AI-based Health Prediction
+* 🧠 AI-based Career Prediction
 * 👧 AI applications for children
 * 🫁 Respiratory / Lung Risk Analysis 
 
