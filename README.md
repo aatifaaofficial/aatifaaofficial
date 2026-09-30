@@ -74,7 +74,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🎓 My Academic Journey</h2>
+<h2 align="center">🎓 My Academic Journey 🎓</h2>
 
 <div align="center">
 
@@ -106,7 +106,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">💫 My Technology Universe</h2>
+<h2 align="center">💫 My Technology Universe 💫</h2>
 
 <div align="center">
 
@@ -189,7 +189,7 @@ Applications
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+<h2 align="center">🛠️ Tech Stack & Skills 🛠️</h2>
 
 <h3 align="left">💻 Programming Languages</h3>
 
@@ -268,7 +268,7 @@ Applications
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects 🚀</h2>
 
 <table align="center">
 <tr>
@@ -391,7 +391,7 @@ An interactive English learning application focused on vocabulary, practice, fla
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🔬 Research & Thesis Interests</h2>
+<h2 align="center">🔬 Research & Thesis Interests 🔬</h2>
 
 <div align="center">
 
@@ -428,7 +428,7 @@ An interactive English learning application focused on vocabulary, practice, fla
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🤖 Robotics & IoT Lab</h2>
+<h2 align="center">🤖 Robotics & IoT Lab 🤖</h2>
 
 <div align="center">
 
@@ -464,7 +464,7 @@ An interactive English learning application focused on vocabulary, practice, fla
 
 </div>
 
-### 🔧 Robotics / IoT Concepts
+### 🔧 Robotics / IoT Concepts 🔧
 
 `🐕 Quadruped Robot`
 `🚦 Smart Traffic Control`
@@ -482,7 +482,7 @@ An interactive English learning application focused on vocabulary, practice, fla
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🌱 Currently Learning</h2>
+<h2 align="center">🌱 Currently Learning 🌱</h2>
 
 <div align="center">
 
@@ -503,7 +503,7 @@ An interactive English learning application focused on vocabulary, practice, fla
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">💭 My Development Philosophy</h2>
+<h2 align="center">💭 My Development Philosophy 💭</h2>
 
 <div align="center">
 
@@ -523,7 +523,7 @@ An interactive English learning application focused on vocabulary, practice, fla
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Analytics 📊</h2>
 
 <div align="center">
 
@@ -546,7 +546,7 @@ An interactive English learning application focused on vocabulary, practice, fla
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🏆 Activities & Achievements</h2>
+<h2 align="center">🏆 Activities & Achievements 🏆</h2>
 
 <div align="center">
 
@@ -568,7 +568,7 @@ An interactive English learning application focused on vocabulary, practice, fla
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">🌐 Connect With Me 🌐</h2>
 
 <p align="left">
 
